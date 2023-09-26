@@ -1,1 +1,1 @@
-# Django-login
+# Django-login-without-email-verification
